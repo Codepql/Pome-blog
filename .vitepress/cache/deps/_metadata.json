@@ -1,0 +1,130 @@
+{
+  "hash": "a9c75bc2",
+  "configHash": "8da36735",
+  "lockfileHash": "597f75a0",
+  "browserHash": "f5e0acab",
+  "optimized": {
+    "vue": {
+      "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "b66970d9",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "c48fe9b5",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "11c34495",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/integrations/useFocusTrap": {
+      "src": "../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "010907f5",
+      "needsInterop": false
+    },
+    "vitepress > mark.js/src/vanilla.js": {
+      "src": "../../../node_modules/mark.js/src/vanilla.js",
+      "file": "vitepress___mark__js_src_vanilla__js.js",
+      "fileHash": "dc9c1be5",
+      "needsInterop": false
+    },
+    "vitepress > minisearch": {
+      "src": "../../../node_modules/minisearch/dist/es/index.js",
+      "file": "vitepress___minisearch.js",
+      "fileHash": "cce422da",
+      "needsInterop": false
+    },
+    "vite": {
+      "src": "../../../node_modules/vite/dist/node/index.js",
+      "file": "vite.js",
+      "fileHash": "0980f24f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "rollup-TW2FMLIG": {
+      "file": "rollup-TW2FMLIG.js"
+    },
+    "node_https-QBBQ6FT2": {
+      "file": "node_https-QBBQ6FT2.js"
+    },
+    "dep-D-7KCb9p-POWNELZK": {
+      "file": "dep-D-7KCb9p-POWNELZK.js"
+    },
+    "dep-C6EFp3uH-HPX7XCX4": {
+      "file": "dep-C6EFp3uH-HPX7XCX4.js"
+    },
+    "postcss-A3K3OXDH": {
+      "file": "postcss-A3K3OXDH.js"
+    },
+    "dep-Ba1kN6Mp-LYJ4OXZF": {
+      "file": "dep-Ba1kN6Mp-LYJ4OXZF.js"
+    },
+    "chunk-WZDXZRHT": {
+      "file": "chunk-WZDXZRHT.js"
+    },
+    "chunk-ZSWR5GFB": {
+      "file": "chunk-ZSWR5GFB.js"
+    },
+    "__vite-optional-peer-dep_lightningcss_vite-LUUMBJI5": {
+      "file": "__vite-optional-peer-dep_lightningcss_vite-LUUMBJI5.js"
+    },
+    "node_http2-W64H5OP4": {
+      "file": "node_http2-W64H5OP4.js"
+    },
+    "watch-73NNRE6R": {
+      "file": "watch-73NNRE6R.js"
+    },
+    "chunk-ISP255VR": {
+      "file": "chunk-ISP255VR.js"
+    },
+    "chunk-FJE4HL6S": {
+      "file": "chunk-FJE4HL6S.js"
+    },
+    "chunk-DM6VNHCA": {
+      "file": "chunk-DM6VNHCA.js"
+    },
+    "chunk-EF6WBC6R": {
+      "file": "chunk-EF6WBC6R.js"
+    },
+    "chunk-ZHYXMNUQ": {
+      "file": "chunk-ZHYXMNUQ.js"
+    },
+    "chunk-SEQ2BS34": {
+      "file": "chunk-SEQ2BS34.js"
+    },
+    "chunk-ATOM76WJ": {
+      "file": "chunk-ATOM76WJ.js"
+    },
+    "chunk-AW2EMQN5": {
+      "file": "chunk-AW2EMQN5.js"
+    },
+    "chunk-2FRTOIJ3": {
+      "file": "chunk-2FRTOIJ3.js"
+    },
+    "chunk-PSMGTXPV": {
+      "file": "chunk-PSMGTXPV.js"
+    },
+    "chunk-A7UTJUSY": {
+      "file": "chunk-A7UTJUSY.js"
+    },
+    "chunk-VJWGEPT5": {
+      "file": "chunk-VJWGEPT5.js"
+    },
+    "node_http-GDIYQ74I": {
+      "file": "node_http-GDIYQ74I.js"
+    },
+    "chunk-FATLNOVU": {
+      "file": "chunk-FATLNOVU.js"
+    },
+    "chunk-ZSMWDLMK": {
+      "file": "chunk-ZSMWDLMK.js"
+    }
+  }
+}

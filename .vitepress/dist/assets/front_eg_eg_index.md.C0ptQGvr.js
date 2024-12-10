@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.DgyBiAMx.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front_eg/eg/index.md","filePath":"front_eg/eg/index.md"}'),r={name:"front_eg/eg/index.md"};function a(o,s,c,d,i,_){return n(),t("div")}const m=e(r,[["render",a]]);export{p as __pageData,m as default};
