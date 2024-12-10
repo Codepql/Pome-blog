@@ -3,6 +3,7 @@ import { set_sidebar } from "../utils/auto_sidebar.mjs";	// 改成自己的路�
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "Pome-blog",
   title: "Pome-lz",
   description: "个人技术分享",
   head: [["link", { rel: "icon", href: "/logo.svg" }]],
