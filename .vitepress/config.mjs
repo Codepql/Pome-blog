@@ -39,19 +39,19 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '开篇',
         collapsed: true, // 初始状态可以设置为折叠（如果想初始展开则设为 false）
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '心路历程一', link: '/markdown-examples' },
+          { text: '心路历程二', link: '/api-examples' }
         ]
       },
       {
-        text: 'pql love mnz',
+        text: '项目',
         collapsed: true, // 初始状态可以设置为折叠（如果想初始展开则设为 false）
         items: [
-          { text: 'Markdown 演示', link: '/front_eg/eg/pql.md' },
-          { text: 'Runtime API 演示', link: '/front_eg/eg/mnz.md' }
+          { text: '项目一', link: '/front_eg/eg/pql.md' },
+          { text: '项目二', link: '/front_eg/eg/mnz.md' }
         ]
       }
     ],

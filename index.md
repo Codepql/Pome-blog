@@ -15,7 +15,7 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: star on gitHub
-      link: /api-examples
+      link: https://github.com/Codepql/Pome-blog
 
 features:
   - title: 项目 1 
